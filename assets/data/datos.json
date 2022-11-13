@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Lineage OS:",
+        "descripcion": "LineageOS es un fork de Android de código abierto para teléfonos inteligentes y tabletas, siendo originariamente una herencia directa de CyanogenMod. De la misma forma que CM, se basa en los lanzamientos de Google para la plataforma de Android, incluyendo código adicional",
+        "imgs": [
+            "assets/img/lin/lin.png",
+            "assets/img/lin/1.png"
+           
+        ]
+    },
+    {
+        "name": "AOSP Extended",
+        "descripcion": "La ROM AOSP Extended es una ROM basada en AOSP (Android Open Source Proyect) que ofrece una experiencia de Android Stock junto con funciones de personalización y el motor de tema de substratum. Al estar basado en AOSP la experiencia de usuario es fluida desde un inicio",
+        "imgs": [
+            "assets/img/AOSP/aosp.png",
+            "assets/img/AOSP/1.png"   
+        ]
+    },
+    {
+        "name": "AICP OS",
+        "descripcion": "AICP también se encuentra f0r Android ICE Cold Project, que es un firmware del mercado de accesorios basado en Android Open Source Project. La ROM se desarrolló por primera vez para el dispositivo HTC Desire HD en el año 2012. Desde entonces, AICP se ha convertido en una ROM madura con la MEJOR comunidad que puedas encontrar! Actualmente, la ROM se basa en Lineage OS con algunos ajustes de AOSP.",
+        "imgs": [
+            "assets/img/aicp/aicp.png",
+            "assets/img/aicp/1.png"   
+        ]
+    },
+    {
+        "name": "DotOS:",
+        "descripcion": "DotOS es una abreviatura simple del término Droid On Time Operating System. Está desarrollado por una comunidad y miembros del equipo: Ganesh Varma y Kuber Sharma. La ROM trae muchos ajustes y características nuevas y también fusionó algunas características de Best Custom ROM.",
+        "imgs": [
+            "assets/img/dat/dat.png",
+            "assets/img/dat/1.png",
+            "assets/img/dat/1,1.png"
+        ]
+    },
+    {
+        "name": "MIUI 12",
+        "descripcion": "MIUI 12 es la última versión de MIUI ROM desarrollada por la compañía Xiaomi. También se utiliza en muchos dispositivos como una ROM personalizada. Está desarrollado en base al sistema operativo Android. La ROM viene con muchas características, como soporte de temas, personalización de la barra de estado, Mi Launcher sin un cajón de aplicaciones y muchas otras características.",
+        "imgs": [
+            "assets/img/miui/miui.jpg",
+            "assets/img/miui/1.png"  
+        ]
+    },
+    {
+        "name": "ViperOS",
+        "descripcion": "ViperOS es un nuevo firmware personalizado basado en el código AOSP pero tiene sus propios mods personalizados. Esta ROM es bastante famosa por sus características personalizadas de todos los CM, Lineage, Slim, Omni AOSPA, etc. La ROM fue desarrollada cuando Google lanzó el código para Android 7.1 Nougat. Ahora se ha convertido en uno de los firmware personalizados más estables con muchas características y personalización. Ofrece un gran equilibrio entre batería y rendimiento.",
+        "imgs": [
+            "assets/img/viperos/viperos.png",
+            "assets/img/viperos/1.png"  
+        ]
+    },
+    {
+        "name": "Resurrection Remix",
+        "descripcion": "Resurrection Remix es una combinación de la estabilidad proporcionada por CM y las características de Slim, Omni y las compilaciones originales de Remix que proporcionan una combinación increíble de rendimiento, personalización, potencia y las características más nuevas traídas directamente a su dispositivo. Esta ROM es, en última instancia, completa, estable y combinada con las mejores características de las ROM de código abierto. ¡La ROM también proporciona muchos complementos originales de ROM de Resurrection Remix increíbles en las compilaciones que incluyen lo mejor del rendimiento, la personalización, la potencia y las características más nuevas de su dispositivo!",
+        "imgs": [
+            "assets/img/re/rr.png",
+            "assets/img/re/1.png"  
+        ]
+    }
+]
